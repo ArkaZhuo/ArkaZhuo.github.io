@@ -11,8 +11,8 @@ I am an undergraduate student in Computer Science at Fudan University. I am inte
 ---
 
 ## <span id="news">🔥 News</span>
-- 2025.09 — New paper **"Do LLMs Signal When They're Right? Evidence from Neuron Agreement"** 
-- 2025.09 — New paper **"Less Data Less Tokens: Multilingual Unification Learning for Efficient Test-Time Reasoning in LLMs"** 
+- 2025.09 — New paper **Do LLMs Signal When They're Right? Evidence from Neuron Agreement** 
+- 2025.09 — New paper **Less Data Less Tokens: Multilingual Unification Learning for Efficient Test-Time Reasoning in LLMs** 
 
 ## <span id="experience">💼 Experience</span>
 - 2023–Present: Undergraduate Student, School of Computer Science, **Fudan University**
@@ -32,10 +32,8 @@ I am an undergraduate student in Computer Science at Fudan University. I am inte
 ## <span id="publications">📝 Publications</span>
 
 - **Do LLMs Signal When They're Right? Evidence from Neuron Agreement**
-  Chenkang, Yaoning Wang, Kai Xiong, **Zhuoka Feng**, Wenhe Sun, Haotian Chen, Yixin Cao.
-  2025. [OpenReview](https://openreview.net/forum?id=mbu8EEnp3a)
+  Chenkang, Yaoning Wang, Kai Xiong, **Zhuoka Feng**, Wenhe Sun, Haotian Chen, Yixin Cao. 2025
 
 - **Less Data Less Tokens: Multilingual Unification Learning for Efficient Test-Time Reasoning in LLMs**
-  Chenkang, Mengdi Zhang, **Zhuoka Feng**, Yixin Cao.
-  2025. [OpenReview](https://openreview.net/forum?id=SJL09XqcX1)
+  Chenkang, Mengdi Zhang, **Zhuoka Feng**, Yixin Cao. 2025
 
