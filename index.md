@@ -13,17 +13,12 @@ I am a student at Fudan University, majoring in the Experimental Class of Techni
 ## <span id="news">🔥 News</span>
 - 2025.10 …
 
-## <span id="publications">📝 Publications</span>
-- …
+## <span id="experience">💼 Experience</span>
+- 2023–now Fudan University
 
 ## <span id="honors-and-awards">🏅 Honors and Awards</span>
 - …
 
-## <span id="experience">💼 Experience</span>
-- 2023–now Fudan University
-
-## <span id="invited-talks">🗣 Invited Talks</span>
+## <span id="publications">📝 Publications</span>
 - …
 
-## <span id="academic-services">🧑‍⚖️ Academic Services</span>
-- …
