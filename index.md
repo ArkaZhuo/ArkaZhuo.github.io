@@ -12,20 +12,20 @@ Email: 23307130211@m.fudan.edu.cn · [GitHub](https://github.com/ArkaZhuo)
 
 ---
 
-### 🔥 News
+## <span id="news">🔥 News</span>
 - 2025.10 …
 
-### 📝 Publications
+## <span id="publications">📝 Publications</span>
 - …
 
-### 💼 Experience
+## <span id="honors-and-awards">🏅 Honors and Awards</span>
+- …
+
+## <span id="experience">💼 Experience</span>
 - 2023–now Fudan University
 
-### 🏅 Honors and Awards
+## <span id="invited-talks">🗣 Invited Talks</span>
 - …
 
-### 🗣 Invited Talks
-- …
-
-### 🧑‍⚖️ Academic Services
+## <span id="academic-services">🧑‍⚖️ Academic Services</span>
 - …

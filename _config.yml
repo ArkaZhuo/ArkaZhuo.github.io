@@ -8,15 +8,16 @@ google_scholar_stats_use_cdn: true
 
 author:
   name: "Zhuoka Feng"
+  bio: "Student, Computer Science"
+  employer: "Fudan University"
   email: "23307130211@m.fudan.edu.cn"
   avatar: "images/profile.jpg"
-  university: "Fudan University"
   location: "Shanghai, China"
   github: "ArkaZhuo"
-  google_scholar: ""
+  googlescholar: ""
   linkedin: ""
   orcid: ""
-  homepage: ""
+  uri: ""
 
 exclude:
   - README.md
