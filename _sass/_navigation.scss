@@ -203,10 +203,12 @@
 
   .visible-links {
     display: table;
+    background: transparent;
 
     li {
       display: table-cell;
       vertical-align: middle;
+      background: transparent;
 
       &:first-child {
         font-weight: bold;

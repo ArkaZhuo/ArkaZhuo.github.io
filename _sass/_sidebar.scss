@@ -96,8 +96,9 @@
   }
 
   img {
-    max-width: 175px;
-    min-width: 75px;
+    width: 175px !important;
+    height: 175px !important;
+    object-fit: cover !important;
     border-radius: 50% !important;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15) !important;
     transition: transform 0.3s ease, box-shadow 0.3s ease !important;
