@@ -1,15 +1,13 @@
 main:
   - title: "Homepage"
     url: /
-  - title: "About Me"
-    url: /#about-me
   - title: "News"
     url: /#news
   - title: "Publications"
     url: /#publications
-  - title: "Honors and Awards"
-    url: /#honors-and-awards
   - title: "Experience"
     url: /#experience
+  - title: "Honors and Awards"
+    url: /#honors-and-awards
   - title: "Invited Talks"
     url: /#invited-talks
