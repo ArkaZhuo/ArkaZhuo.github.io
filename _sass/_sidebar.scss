@@ -86,6 +86,7 @@
   display: table-cell;
   vertical-align: top;
   width: 100%;
+  text-align: center;
 
   @include breakpoint($large) {
     display: block;
@@ -93,13 +94,15 @@
   }
 
   img {
-    width: 100% !important;
+    width: 120% !important;
+    max-width: none !important;
     height: auto !important;
-    aspect-ratio: 1 / 1.2 !important;
+    aspect-ratio: 1 / 1.35 !important;
     object-fit: cover !important;
     border-radius: 50% !important;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15) !important;
     transition: transform 0.3s ease, box-shadow 0.3s ease !important;
+    margin-left: -10% !important;
 
     @include breakpoint($large) {
       padding: 5px !important;
