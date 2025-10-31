@@ -8,8 +8,6 @@ author_profile: true
 ### About Me
 I am a student at Fudan University, majoring in the Experimental Class of Technical Sciences, with a focus on Computer Science.
 
-Email: 23307130211@m.fudan.edu.cn · [GitHub](https://github.com/ArkaZhuo)
-
 ---
 
 ## <span id="news">🔥 News</span>
