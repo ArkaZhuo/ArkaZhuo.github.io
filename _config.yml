@@ -25,12 +25,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name: Zhuoka Feng
   email            : 23307130211@m.fudan.edu.cn
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/profile.jpg"
   bio              : "Fudan University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    :
+  googlescholar    :""
   researchgate     :  
   uri              :
   bitbucket        :
@@ -39,7 +39,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "ArkaZhuo"
   google_plus      :
   keybase          :
   instagram        :
