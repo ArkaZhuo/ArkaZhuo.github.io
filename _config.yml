@@ -24,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name: Zhuoka Feng
-  email: 23307130211@m.fudan.edu.cn
+  email            : 23307130211@m.fudan.edu.cn
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Fudan University"
   location         : "Shanghai, China"
