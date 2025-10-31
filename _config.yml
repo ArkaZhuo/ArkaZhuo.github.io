@@ -14,10 +14,6 @@ author:
   avatar: "images/profile.jpg"
   location: "Shanghai, China"
   github: "ArkaZhuo"
-  googlescholar: ""
-  linkedin: ""
-  orcid: ""
-  uri: ""
 
 exclude:
   - README.md
