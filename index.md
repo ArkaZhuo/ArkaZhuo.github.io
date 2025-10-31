@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Zhuoka Feng
+title: "Zhuoka Feng"
 permalink: /
 subtitle: "Student @ Fudan University (Experimental Class of Technical Sciences, CS focus)"
 profile:
