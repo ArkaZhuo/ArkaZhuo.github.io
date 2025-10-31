@@ -17,3 +17,7 @@ author:
   linkedin: ""
   orcid: ""
   homepage: ""
+
+exclude:
+  - README.md
+  - docs/
