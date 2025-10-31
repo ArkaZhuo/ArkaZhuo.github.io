@@ -2,6 +2,7 @@
 layout: homepage
 title: "Zhuoka Feng"
 permalink: /
+author_profile: true
 ---
 
 ### About Me
