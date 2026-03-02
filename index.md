@@ -24,8 +24,8 @@ I am an undergraduate student in Computer Science at Fudan University. I am inte
 ## <span id="honors-and-awards">🏅 Honors and Awards</span>
 
 **2025**
-- Fudan University Merit Scholarship (Expected), 2024-2025
-- Fudan University Outstanding Student (Expected), 2024-2025
+- Fudan University Merit Scholarship, 2024-2025
+- Fudan University Outstanding Student, 2024-2025
 
 **2024**
 - National Scholarship, 2023-2024
