@@ -10,12 +10,6 @@ I am an undergraduate student in Computer Science at Fudan University. I am inte
 
 ---
 
-## <span id="news">🔥 New Papers</span>
-- 2025.09 — **Do LLMs Signal When They're Right? Evidence from Neuron Agreement**
-  Chenkang, Yaoning Wang, Kai Xiong, **Zhuoka Feng**, Wenhe Sun, Haotian Chen, Yixin Cao. 2025
-- 2025.09 — **Less Data Less Tokens: Multilingual Unification Learning for Efficient Test-Time Reasoning in LLMs**
-  Chenkang, Mengdi Zhang, **Zhuoka Feng**, Yixin Cao. 2025 
-
 ## <span id="experience">💼 Experience</span>
 - 2023–Present: Undergraduate Student, School of Computer Science, **Fudan University**
 
