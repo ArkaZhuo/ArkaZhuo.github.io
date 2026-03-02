@@ -15,11 +15,21 @@ I am an undergraduate student in Computer Science at Fudan University. I am inte
 
 ## <span id="publications">📝 Publications</span>
 
-- **Do LLMs Signal When They're Right? Evidence from Neuron Agreement**
-  Chenkang, Yaoning Wang, Kai Xiong, **Zhuoka Feng**, Wenhe Sun, Haotian Chen, Yixin Cao. 2025
+- **ARM: Role-Conditioned Neuron Transplantation for Training-Free Generalist LLM Agent Merging** 
+  **Zhuoka Feng**, Kang Chen, Sihan Zhao, Kai Xiong, Yaoning Wang, Minshen Yu, Junjie Nian, Changyi Xiao, Yixin Cao, Yugang Jiang. 2026
+
+- **NEX: Neuron Explore-Exploit Scoring for Label-Free Chain-of-Thought Selection and Model Ranking**
+  Kang Chen, **Zhuoka Feng**, Sihan Zhao, Kai Xiong, Junjie Nian, Yaoning Wang, Changyi Xiao, Yixin Cao. 2026
+
+- **Thinking Traps in Long Chain-of-Thought: A Measurable Study and Trap-Aware Adaptive Restart**
+  Kang Chen, Fan Yu, Junjie Nian, Shihan Zhao, **Zhuoka Feng**, Zijun Yao, Heng Wang, Minshen Yu, Yixin Cao. 2026
 
 - **Less Data Less Tokens: Multilingual Unification Learning for Efficient Test-Time Reasoning in LLMs**
   Chenkang, Mengdi Zhang, **Zhuoka Feng**, Yixin Cao. 2025
+
+- **Do LLMs Signal When They're Right? Evidence from Neuron Agreement**
+  Chenkang, Yaoning Wang, Kai Xiong, **Zhuoka Feng**, Wenhe Sun, Haotian Chen, Yixin Cao. 2025
+
 
 ## <span id="honors-and-awards">🏅 Honors and Awards</span>
 
