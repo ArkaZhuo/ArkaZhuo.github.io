@@ -1,9 +1,7 @@
 main:
-  - title: "New Papers"
-    url: /#news
   - title: "Experience"
     url: /#experience
-  - title: "Honors and Awards"
-    url: /#honors-and-awards
   - title: "Publications"
     url: /#publications
+  - title: "Honors and Awards"
+    url: /#honors-and-awards
