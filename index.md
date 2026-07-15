@@ -23,10 +23,10 @@ I am an undergraduate student in Computer Science at Fudan University, under the
   Kang Chen<sup>*</sup>, **Zhuoka Feng**<sup>*</sup>, Sihan Zhao, Kai Xiong, Junjie Nian, Yaoning Wang, Changyi Xiao, Yixin Cao. 2026
 
 - **Do LLMs Signal When They're Right? Evidence from Neuron Agreement**<br>
-  Chenkang, Yaoning Wang, Kai Xiong, **Zhuoka Feng**, Wenhe Sun, Haotian Chen, Yixin Cao. *ICML 2026 Spotlight*
+  Kang Chen, Yaoning Wang, Kai Xiong, **Zhuoka Feng**, Wenhe Sun, Haotian Chen, Yixin Cao. **ICML 2026 Spotlight**
 
 - **Thinking Traps in Long Chain-of-Thought: A Measurable Study and Trap-Aware Adaptive Restart**<br>
-  Kang Chen, Fan Yu, Junjie Nian, Shihan Zhao, **Zhuoka Feng**, Zijun Yao, Heng Wang, Minshen Yu, Yixin Cao. *Findings of ACL 2026*
+  Kang Chen, Fan Yu, Junjie Nian, Shihan Zhao, **Zhuoka Feng**, Zijun Yao, Heng Wang, Minshen Yu, Yixin Cao. **ACL 2026 Findings**
 
 
 ## <span id="honors-and-awards">🏅 Honors and Awards</span>
