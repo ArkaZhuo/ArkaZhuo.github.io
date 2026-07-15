@@ -33,6 +33,5 @@ I am an undergraduate student in Computer Science at Fudan University, under the
 
 - **National Scholarship**, 2023-2024
 - First Prize, Chinese Mathematics Competitions
-- Fudan University Merit Scholarship, 2024-2025
 - Tang Zhongying Scholarship for Moral Education, 2023-2024，2024-2025
 - Fudan University Outstanding Student, 2023-2024，2024-2025(Top 10%)
