@@ -36,6 +36,10 @@
       &:hover {
         color: $masthead-link-color-hover;
       }
+
+      &:focus {
+        outline: 0;
+      }
     }
   }
 }
@@ -67,4 +71,3 @@
     font-weight: 700;
   }
 }
-

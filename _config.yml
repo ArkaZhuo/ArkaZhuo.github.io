@@ -1,5 +1,5 @@
 title: "Zhuoka Feng"
-description: "Personal academic homepage"
+description: ""
 url: "https://arkazhuo.github.io"
 baseurl: ""
 repository: "ArkaZhuo/ArkaZhuo.github.io"
@@ -13,6 +13,7 @@ author:
   avatar: "images/profile1.jpg"
   location: "Shanghai, China"
   github: "ArkaZhuo"
+  googlescholar: "https://scholar.google.com/citations?user=C_Oh2igAAAAJ"
 
 exclude:
   - README.md
