@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### About Me
-I am an undergraduate student in Computer Science at Fudan University, under the supervision of [Prof Yixin Cao](https://taominer.github.io/). My research interests lie in natural language processing, with a focus on developing agentic large language models.
+I am an undergraduate student in Computer Science at Fudan University, under the supervision of Prof [ Yixin Cao](https://taominer.github.io/). My research interests lie in natural language processing, with a focus on developing agentic large language models.
 
 
 ---
