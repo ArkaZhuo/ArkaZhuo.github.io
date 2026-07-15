@@ -175,17 +175,17 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: transparent;
+  background: $body-color;
 
   a {
     display: block;
     margin: 0 1rem;
     padding: 0.5rem 0;
-    color: #fff;
+    color: $masthead-link-color;
     text-decoration: none;
 
     &:hover {
-      color: #ffd700;
+      color: $masthead-link-color-hover;
     }
   }
 
@@ -203,12 +203,10 @@
 
   .visible-links {
     display: table;
-    background: transparent;
 
     li {
       display: table-cell;
       vertical-align: middle;
-      background: transparent;
 
       &:first-child {
         font-weight: bold;
@@ -234,7 +232,7 @@
         left: 0;
         bottom: 0;
         height: 4px;
-        background: #ffd700;
+        background: $light-gray;
         width: 100%;
         -webkit-transition: $global-transition;
         transition: $global-transition;

@@ -72,16 +72,13 @@
   }
 
   h2 {
-    color: #667eea;
-    border-bottom: 2px solid #667eea;
+    color: $text-color;
+    border-bottom: 1px solid $border-color;
     padding-bottom: 10px;
     margin-top: 30px;
 
     span {
-      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      background-clip: text;
+      color: $text-color;
     }
   }
 
@@ -103,12 +100,12 @@
   }
 
   a {
-    color: #667eea;
+    color: $link-color;
     text-decoration: underline;
     transition: color 0.3s ease;
 
     &:hover {
-      color: #764ba2;
+      color: $link-color-hover;
       text-decoration: underline;
 
       img {

@@ -5,9 +5,8 @@
 .masthead {
   position: sticky;
   top: 0;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  border-bottom: none;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  background-color: $body-color;
+  border-bottom: 1px solid $border-color;
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.15s;
@@ -30,12 +29,12 @@
 
     a {
       text-decoration: none;
-      color: #fff;
+      color: $masthead-link-color;
       font-weight: 500;
       transition: all 0.3s ease;
 
       &:hover {
-        color: #ffd700;
+        color: $masthead-link-color-hover;
       }
     }
   }
@@ -68,5 +67,4 @@
     font-weight: 700;
   }
 }
-
 

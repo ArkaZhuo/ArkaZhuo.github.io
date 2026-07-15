@@ -112,6 +112,11 @@ h1:before, .anchor:before {
 
 /* 头像美化 - 圆形+阴影效果 */
 .author__avatar img {
+    width: 180px !important;
+    max-width: 100% !important;
+    height: 180px !important;
+    aspect-ratio: 1 / 1 !important;
+    object-fit: cover !important;
     border-radius: 50% !important;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15) !important;
     border: 3px solid #fff !important;
@@ -123,35 +128,35 @@ h1:before, .anchor:before {
     box-shadow: 0 6px 20px rgba(0, 0, 0, 0.25) !important;
 }
 
-/* 导航栏蓝色主题美化 */
+/* 导航栏学术主页风格 */
 .masthead {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%) !important;
-    border-bottom: none !important;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    background-color: $body-color !important;
+    border-bottom: 1px solid $border-color !important;
+    box-shadow: none;
 }
 
 .masthead__inner-wrap a {
-    color: #fff !important;
+    color: $masthead-link-color !important;
     font-weight: 500;
     transition: all 0.3s ease;
 }
 
 .masthead__menu-item a:hover {
-    color: #ffd700 !important;
+    color: $masthead-link-color-hover !important;
     transform: translateY(-2px);
 }
 
 .masthead__menu-item--lg a {
-    color: #fff !important;
+    color: $masthead-link-color !important;
     font-size: 1.1em;
 }
 
 /* 侧边栏美化 */
 .sidebar {
-    background: linear-gradient(to bottom, #f8f9fa 0%, #ffffff 100%);
-    border-radius: 10px;
+    background: transparent;
+    border-radius: 0;
     padding: 20px;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+    box-shadow: none;
 }
 
 .author__name {
@@ -173,45 +178,42 @@ h1:before, .anchor:before {
 
 .author__urls a:hover {
     background-color: #e9ecef;
-    color: #667eea !important;
+    color: $link-color !important;
     text-decoration: none !important;
     transform: translateX(5px);
 }
 
 /* 页面内容区域美化 */
 .page__content h2 {
-    color: #667eea !important;
-    border-bottom: 2px solid #667eea;
+    color: $text-color !important;
+    border-bottom: 1px solid $border-color;
     padding-bottom: 10px;
     margin-top: 30px !important;
 }
 
 .page__content h2 span {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
+    color: $text-color;
 }
 
 /* 链接美化 */
 .page__content a {
-    color: #667eea !important;
+    color: $link-color !important;
     transition: color 0.3s ease;
 }
 
 .page__content a:hover {
-    color: #764ba2 !important;
+    color: $link-color-hover !important;
 }
 
 /* 整体页面背景优化 */
 body {
-    background-color: #f8f9fa;
+    background-color: $background-color;
 }
 
 #main {
     background-color: #ffffff;
-    border-radius: 10px;
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.05);
+    border-radius: 0;
+    box-shadow: none;
     padding: 20px;
-    margin-top: 20px;
+    margin-top: 0;
 }

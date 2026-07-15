@@ -85,24 +85,26 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 100%;
+  width: 180px;
   text-align: center;
+  margin: 0 auto;
 
   @include breakpoint($large) {
     display: block;
-    width: 100%;
+    width: 180px;
+    max-width: 100%;
   }
 
   img {
-    width: 120% !important;
-    max-width: none !important;
-    height: auto !important;
+    width: 180px !important;
+    max-width: 100% !important;
+    height: 180px !important;
     aspect-ratio: 1 / 1 !important;
     object-fit: cover !important;
     border-radius: 50% !important;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15) !important;
     transition: transform 0.3s ease, box-shadow 0.3s ease !important;
-    margin-left: -10% !important;
+    margin-left: 0 !important;
 
     @include breakpoint($large) {
       padding: 5px !important;
@@ -266,7 +268,7 @@
 
     &:hover {
       background-color: #e9ecef;
-      color: #667eea;
+      color: $link-color;
       text-decoration: none;
       transform: translateX(5px);
     }
