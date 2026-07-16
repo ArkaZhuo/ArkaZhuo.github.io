@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### About Me
-I am an undergraduate student in Computer Science at Fudan University, under the supervision of Prof [ Yixin Cao](https://taominer.github.io/). My research interests lie in natural language processing, with a focus on developing agentic large language models.
+I'm a third-year undergraduate at Fudan University, majoring in Computer Science. My research interests lie in natural language processing, with a focus on developing agentic large language models. Previously, I had the privilege of working with Prof. [Yixin Cao](https://taominer.github.io/) at Fudan University.
 
 
 ---
@@ -23,7 +23,7 @@ I am an undergraduate student in Computer Science at Fudan University, under the
   <ul>
     <li><strong>Zhuoka Feng</strong><sup>*</sup>, Kang Chen<sup>*</sup>, Sihan Zhao, Kai Xiong, Yaoning Wang, Minshen Yu, Junjie Nian, Changyi Xiao, Yixin Cao, Yugang Jiang</li>
     <li>2026</li>
-    <li><a href="https://arxiv.org/abs/2601.07309"><strong>[Paper]</strong></a></li>
+    <li><a href="https://arkazhuo.github.io/ARM-homepage/"><strong>[Paper]</strong></a></li>
   </ul>
 
 </div></div>
