@@ -16,17 +16,55 @@ I am an undergraduate student in Computer Science at Fudan University, under the
 
 ## <span id="Selected-Publications">📝 Preprints and Publications</span>
 
-- **ARM: Role-Conditioned Neuron Transplantation for Training-Free Generalist LLM Agent Merging**<br>
-  **Zhuoka Feng**<sup>*</sup>, Kang Chen<sup>*</sup>, Sihan Zhao, Kai Xiong, Yaoning Wang, Minshen Yu, Junjie Nian, Changyi Xiao, Yixin Cao, Yugang Jiang. 2026
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">Preprint</div><img src="images/papers/arm-teaser.png" alt="ARM overview" width="100%" /></div></div>
+<div class="paper-box-text">
 
-- **NEX: Neuron Explore-Exploit Scoring for Label-Free Chain-of-Thought Selection and Model Ranking**<br>
-  Kang Chen<sup>*</sup>, **Zhuoka Feng**<sup>*</sup>, Sihan Zhao, Kai Xiong, Junjie Nian, Yaoning Wang, Changyi Xiao, Yixin Cao. 2026
+  <p><strong>ARM: Role-Conditioned Neuron Transplantation for Training-Free Generalist LLM Agent Merging</strong></p>
+  <ul>
+    <li><strong>Zhuoka Feng</strong><sup>*</sup>, Kang Chen<sup>*</sup>, Sihan Zhao, Kai Xiong, Yaoning Wang, Minshen Yu, Junjie Nian, Changyi Xiao, Yixin Cao, Yugang Jiang</li>
+    <li>2026</li>
+    <li><a href="https://arxiv.org/abs/2601.07309"><strong>[Paper]</strong></a></li>
+  </ul>
 
-- **Do LLMs Signal When They're Right? Evidence from Neuron Agreement**<br>
-  Kang Chen, Yaoning Wang, Kai Xiong, **Zhuoka Feng**, Wenhe Sun, Haotian Chen, Yixin Cao. **ICML 2026 Spotlight**
+</div></div>
 
-- **Thinking Traps in Long Chain-of-Thought: A Measurable Study and Trap-Aware Adaptive Restart**<br>
-  Kang Chen, Fan Yu, Junjie Nian, Shihan Zhao, **Zhuoka Feng**, Zijun Yao, Heng Wang, Minshen Yu, Yixin Cao. **ACL 2026 Findings**
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">Preprint</div><img src="images/papers/nex-teaser.png" alt="NEX overview" width="100%" /></div></div>
+<div class="paper-box-text">
+
+  <p><strong>NEX: Neuron Explore-Exploit Scoring for Label-Free Chain-of-Thought Selection and Model Ranking</strong></p>
+  <ul>
+    <li>Kang Chen<sup>*</sup>, <strong>Zhuoka Feng</strong><sup>*</sup>, Sihan Zhao, Kai Xiong, Junjie Nian, Yaoning Wang, Changyi Xiao, Yixin Cao</li>
+    <li>2026</li>
+    <li><a href="https://arxiv.org/abs/2602.05805"><strong>[Paper]</strong></a></li>
+  </ul>
+
+</div></div>
+
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">ICML 2026 Spotlight</div><img src="images/papers/NAD.png" alt="Neuron Agreement Decoding overview" width="100%" /></div></div>
+<div class="paper-box-text">
+
+  <p><strong>Do LLMs Signal When They're Right? Evidence from Neuron Agreement</strong></p>
+  <ul>
+    <li>Kang Chen<sup>*</sup>, Yaoning Wang<sup>*</sup>, Kai Xiong, <strong>Zhuoka Feng</strong>, Wenhe Sun, Haotian Chen, Yixin Cao</li>
+    <li><strong>ICML 2026 Spotlight</strong></li>
+    <li><a href="https://arxiv.org/abs/2510.26277"><strong>[Paper]</strong></a></li>
+  </ul>
+
+</div></div>
+
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">ACL 2026 Findings</div><img src="images/papers/thinkingtrap.png" alt="Thinking Traps overview" width="100%" /></div></div>
+<div class="paper-box-text">
+
+  <p><strong>Thinking Traps in Long Chain-of-Thought: A Measurable Study and Trap-Aware Adaptive Restart</strong></p>
+  <ul>
+    <li>Kang Chen<sup>*</sup>, Fan Yu<sup>*</sup>, Junjie Nian, Shihan Zhao, <strong>Zhuoka Feng</strong>, Zijun Yao, Heng Wang, Minshen Yu, Yixin Cao</li>
+    <li><strong>ACL 2026 Findings</strong></li>
+    <li><a href="https://aclanthology.org/2026.findings-acl.1930/"><strong>[Paper]</strong></a></li>
+  </ul>
+
+</div></div>
+
+<p><sup>*</sup> Equal contribution.</p>
 
 
 ## <span id="honors-and-awards">🏅 Honors and Awards</span>
