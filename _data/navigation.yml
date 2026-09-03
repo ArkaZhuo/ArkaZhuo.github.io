@@ -1,9 +1,9 @@
 main:
   - title: "Experience"
     url: /#experience
-  - title: "Honors and Awards"
-    url: /#honors-and-awards
   - title: "Preprints"
     url: /#preprints
   - title: "Publications"
     url: /#Selected-Publications
+  - title: "Honors and Awards"
+    url: /#honors-and-awards
