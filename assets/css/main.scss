@@ -93,6 +93,11 @@
 
 }
 
+.paper-box--compact {
+    padding-top: 0.75em;
+    padding-bottom: 1.25em;
+}
+
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 

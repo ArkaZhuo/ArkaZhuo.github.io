@@ -16,9 +16,7 @@ I'm a third-year undergraduate at Fudan University, majoring in Computer Science
 
 ## <span id="preprints">📄 Preprints</span>
 
-<p><sup>*</sup> Equal contribution.</p>
-
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">Preprint</div><img src="images/papers/nex-teaser.png" alt="NEX overview" width="100%" /></div></div>
+<div class="paper-box paper-box--compact"><div class="paper-box-image"><div><div class="badge">Preprint</div><img src="images/papers/nex-teaser.png" alt="NEX overview" width="100%" /></div></div>
 <div class="paper-box-text">
 
   <p><strong>NEX: Neuron Explore-Exploit Scoring for Label-Free Chain-of-Thought Selection and Model Ranking</strong></p>
