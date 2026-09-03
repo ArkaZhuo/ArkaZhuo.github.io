@@ -18,9 +18,17 @@ I'm a third-year undergraduate at Fudan University, majoring in Computer Science
 
 <p><sup>*</sup> Equal contribution.</p>
 
-- **NEX: Neuron Explore-Exploit Scoring for Label-Free Chain-of-Thought Selection and Model Ranking**<br>
-  Kang Chen<sup>*</sup>, **Zhuoka Feng**<sup>*</sup>, Sihan Zhao, Kai Xiong, Junjie Nian, Yaoning Wang, Changyi Xiao, Yixin Cao. 2026<br>
-  <a href="https://arxiv.org/abs/2602.05805"><strong>[Paper]</strong></a>
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">Preprint</div><img src="images/papers/nex-teaser.png" alt="NEX overview" width="100%" /></div></div>
+<div class="paper-box-text">
+
+  <p><strong>NEX: Neuron Explore-Exploit Scoring for Label-Free Chain-of-Thought Selection and Model Ranking</strong></p>
+  <ul>
+    <li>Kang Chen<sup>*</sup>, <strong>Zhuoka Feng</strong><sup>*</sup>, Sihan Zhao, Kai Xiong, Junjie Nian, Yaoning Wang, Changyi Xiao, Yixin Cao</li>
+    <li>2026</li>
+    <li><a href="https://arxiv.org/abs/2602.05805"><strong>[Paper]</strong></a></li>
+  </ul>
+
+</div></div>
 
 ## <span id="Selected-Publications">📝 Publications</span>
 
@@ -33,7 +41,7 @@ I'm a third-year undergraduate at Fudan University, majoring in Computer Science
   <ul>
     <li><strong>Zhuoka Feng</strong><sup>*</sup>, Kang Chen<sup>*</sup>, Sihan Zhao, Kai Xiong, Yaoning Wang, Minshen Yu, Junjie Nian, Changyi Xiao, Yixin Cao, Yugang Jiang</li>
     <li><strong>EMNLP 2026</strong></li>
-    <li><a href="https://arkazhuo.github.io/ARM-homepage/"><strong>[Paper]</strong></a></li>
+    <li><a href="https://arxiv.org/pdf/2601.07309v1"><strong>[Paper]</strong></a> <a href="https://arkazhuo.github.io/ARM-homepage/"><strong>[Project]</strong></a></li>
   </ul>
 
 </div></div>
@@ -45,7 +53,7 @@ I'm a third-year undergraduate at Fudan University, majoring in Computer Science
   <ul>
     <li>Kang Chen<sup>*</sup>, Yaoning Wang<sup>*</sup>, Kai Xiong, <strong>Zhuoka Feng</strong>, Wenhe Sun, Haotian Chen, Yixin Cao</li>
     <li><strong>ICML 2026 Spotlight</strong></li>
-    <li><a href="https://arxiv.org/abs/2510.26277"><strong>[Paper]</strong></a></li>
+    <li><a href="https://arxiv.org/abs/2510.26277"><strong>[Paper]</strong></a> <a href="https://cckfdu.com/nad/"><strong>[Project]</strong></a></li>
   </ul>
 
 </div></div>
@@ -57,7 +65,7 @@ I'm a third-year undergraduate at Fudan University, majoring in Computer Science
   <ul>
     <li>Kang Chen<sup>*</sup>, Fan Yu<sup>*</sup>, Junjie Nian, Shihan Zhao, <strong>Zhuoka Feng</strong>, Zijun Yao, Heng Wang, Minshen Yu, Yixin Cao</li>
     <li><strong>ACL 2026 Findings</strong></li>
-    <li><a href="https://aclanthology.org/2026.findings-acl.1930/"><strong>[Paper]</strong></a></li>
+    <li><a href="https://aclanthology.org/2026.findings-acl.1930/"><strong>[Paper]</strong></a> <a href="https://cckfdu.com/taar/"><strong>[Project]</strong></a></li>
   </ul>
 
 </div></div>
