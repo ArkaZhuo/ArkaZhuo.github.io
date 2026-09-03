@@ -16,13 +16,15 @@ I'm a third-year undergraduate at Fudan University, majoring in Computer Science
 
 ## <span id="preprints">📄 Preprints</span>
 
+<p><sup>*</sup> Equal contribution.</p>
+
 - **NEX: Neuron Explore-Exploit Scoring for Label-Free Chain-of-Thought Selection and Model Ranking**<br>
   Kang Chen<sup>*</sup>, **Zhuoka Feng**<sup>*</sup>, Sihan Zhao, Kai Xiong, Junjie Nian, Yaoning Wang, Changyi Xiao, Yixin Cao. 2026<br>
   <a href="https://arxiv.org/abs/2602.05805"><strong>[Paper]</strong></a>
 
-<p><sup>*</sup> Equal contribution.</p>
-
 ## <span id="Selected-Publications">📝 Publications</span>
+
+<p><sup>*</sup> Equal contribution.</p>
 
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">EMNLP 2026</div><img src="images/papers/arm-teaser.png" alt="ARM overview" width="100%" /></div></div>
 <div class="paper-box-text">
@@ -59,8 +61,6 @@ I'm a third-year undergraduate at Fudan University, majoring in Computer Science
   </ul>
 
 </div></div>
-
-<p><sup>*</sup> Equal contribution.</p>
 
 ## <span id="honors-and-awards">🏅 Honors and Awards</span>
 
