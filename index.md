@@ -14,28 +14,29 @@ I'm a third-year undergraduate at Fudan University, majoring in Computer Science
 ## <span id="experience">💼 Experience</span>
 - 2023–Present: Undergraduate Student, School of Computer Science, **Fudan University**
 
-## <span id="Selected-Publications">📝 Preprints and Publications</span>
+## <span id="honors-and-awards">🏅 Honors and Awards</span>
 
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">Preprint</div><img src="images/papers/arm-teaser.png" alt="ARM overview" width="100%" /></div></div>
+- **National Scholarship**, 2023-2024
+- **First Prize, Chinese Mathematics Competitions**
+- Tang Zhongying Scholarship for Moral Education, 2023-2024，2024-2025
+- Outstanding Student of Fudan University , 2023-2024，2024-2025(Top 10%)
+
+## <span id="preprints">📄 Preprints</span>
+
+- **NEX: Neuron Explore-Exploit Scoring for Label-Free Chain-of-Thought Selection and Model Ranking**<br>
+  Kang Chen<sup>*</sup>, **Zhuoka Feng**<sup>*</sup>, Sihan Zhao, Kai Xiong, Junjie Nian, Yaoning Wang, Changyi Xiao, Yixin Cao. 2026<br>
+  <a href="https://arxiv.org/abs/2602.05805"><strong>[Paper]</strong></a>
+
+## <span id="Selected-Publications">📝 Publications</span>
+
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">EMNLP 2026</div><img src="images/papers/arm-teaser.png" alt="ARM overview" width="100%" /></div></div>
 <div class="paper-box-text">
 
   <p><strong>ARM: Role-Conditioned Neuron Transplantation for Training-Free Generalist LLM Agent Merging</strong></p>
   <ul>
     <li><strong>Zhuoka Feng</strong><sup>*</sup>, Kang Chen<sup>*</sup>, Sihan Zhao, Kai Xiong, Yaoning Wang, Minshen Yu, Junjie Nian, Changyi Xiao, Yixin Cao, Yugang Jiang</li>
-    <li>2026</li>
+    <li><strong>EMNLP 2026</strong></li>
     <li><a href="https://arkazhuo.github.io/ARM-homepage/"><strong>[Paper]</strong></a></li>
-  </ul>
-
-</div></div>
-
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">Preprint</div><img src="images/papers/nex-teaser.png" alt="NEX overview" width="100%" /></div></div>
-<div class="paper-box-text">
-
-  <p><strong>NEX: Neuron Explore-Exploit Scoring for Label-Free Chain-of-Thought Selection and Model Ranking</strong></p>
-  <ul>
-    <li>Kang Chen<sup>*</sup>, <strong>Zhuoka Feng</strong><sup>*</sup>, Sihan Zhao, Kai Xiong, Junjie Nian, Yaoning Wang, Changyi Xiao, Yixin Cao</li>
-    <li>2026</li>
-    <li><a href="https://arxiv.org/abs/2602.05805"><strong>[Paper]</strong></a></li>
   </ul>
 
 </div></div>
@@ -65,11 +66,3 @@ I'm a third-year undergraduate at Fudan University, majoring in Computer Science
 </div></div>
 
 <p><sup>*</sup> Equal contribution.</p>
-
-
-## <span id="honors-and-awards">🏅 Honors and Awards</span>
-
-- **National Scholarship**, 2023-2024
-- **First Prize, Chinese Mathematics Competitions**
-- Tang Zhongying Scholarship for Moral Education, 2023-2024，2024-2025
-- Outstanding Student of Fudan University , 2023-2024，2024-2025(Top 10%)

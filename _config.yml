@@ -13,6 +13,7 @@ author:
   avatar: "images/profile1.jpg"
   location: "Shanghai, China"
   github: "ArkaZhuo"
+  googlescholar: "https://scholar.google.com/citations?user=C_Oh2igAAAAJ&hl=en&oi=ao"
 
 exclude:
   - README.md
